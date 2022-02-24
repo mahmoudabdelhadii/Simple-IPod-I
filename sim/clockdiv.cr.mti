@@ -1,0 +1,25 @@
+C:/Users/Mahmoud/Desktop/CPEN311/Lab1/Mahmoud_Abdelhadi_Lab_1/sim/Clockdivider.sv {1 {vlog -work work -sv -stats=none C:/Users/Mahmoud/Desktop/CPEN311/Lab1/Mahmoud_Abdelhadi_Lab_1/sim/Clockdivider.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module led_fsm
+-- Compiling module Clock_divider
+-- Compiling module DIV
+
+Top level modules:
+	led_fsm
+	Clock_divider
+	DIV
+
+} {} {}} C:/Users/Mahmoud/Desktop/CPEN311/Lab1/Mahmoud_Abdelhadi_Lab_1/sim/clockdivider_tb.sv {1 {vlog -work work -sv -stats=none {C:\Users\Mahmoud\Desktop\CPEN311\Lab1\Mahmoud_Abdelhadi_Lab_1\sim\clockdivider_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module tb_clock_divider
+-- Compiling module tb_led_fsm
+-- Compiling module tb_DIV
+-- Compiling module tb_asyncsig
+
+Top level modules:
+	tb_clock_divider
+	tb_led_fsm
+	tb_DIV
+	tb_asyncsig
+
+} {} {}}
